@@ -18,8 +18,8 @@
 - 🛠️ Mejora de habilidades en SQL, HTML y CSS: Profundizando en bases de datos y optimización del código en difeerentes lenguajes.
 
 ## 🎯 Objetivos
-Aplicar metodologías ágiles y buenas prácticas en desarrollo.
-Crear proyectos útiles y bien estructurados.
-Seguir aprendiendo y mejorando mis conocimientos en tecnología.
-Explorar nuevas tecnologías y herramientas para el desarrollo web.
-Optimizar el rendimiento y la accesibilidad en mis proyectos.
+- Aplicar metodologías ágiles y buenas prácticas en desarrollo.
+- Crear proyectos útiles y bien estructurados.
+- Seguir aprendiendo y mejorando mis conocimientos en tecnología.
+- Explorar nuevas tecnologías y herramientas para el desarrollo web.
+- Optimizar el rendimiento y la accesibilidad en mis proyectos.
