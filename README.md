@@ -14,12 +14,12 @@
 ## 📌 Proyectos en curso
 - 🌐 **Página web en WordPress**: Proyecto académico en el que implemento configuraciones avanzadas y plugins personalizados.
 - 📱 **Aplicación web educativa**: Desarrollo de una plataforma interactiva para mejorar el aprendizaje en línea.
+- 🖥️ Prácticas de Git y comandos Linux: Mejorando el control de versiones y automatización en entornos de desarrollo.
+- 🛠️ Mejora de habilidades en SQL, HTML y CSS: Profundizando en bases de datos y optimización del código en difeerentes lenguajes.
 
 ## 🎯 Objetivos
-- Mejorar mis habilidades en desarrollo backend y bases de datos.
-- Aprender frameworks como React y Vue.js.
-- Contribuir en proyectos open source y colaborar con otros desarrolladores.
-- Explorar DevOps y metodologías ágiles.
-
-📫 **¡Conéctemos!**
-Si quieres charlar sobre desarrollo web, tecnología o proyectos interesantes, no dudes en contactarme. 🚀
+Aplicar metodologías ágiles y buenas prácticas en desarrollo.
+Crear proyectos útiles y bien estructurados.
+Seguir aprendiendo y mejorando mis conocimientos en tecnología.
+Explorar nuevas tecnologías y herramientas para el desarrollo web.
+Optimizar el rendimiento y la accesibilidad en mis proyectos.
